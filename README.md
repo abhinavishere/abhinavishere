@@ -1,10 +1,9 @@
 # Hi there, I'm Abhinav 😎
 
-## I'm a Student and a Developer!!
+## I'm a Software Developer!!
 
-- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and ride bikes
 
 ## Connect with me:
