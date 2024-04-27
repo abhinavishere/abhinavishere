@@ -3,7 +3,7 @@
 ## I'm a Software Developer!!
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and ride bikes
 
 ## Connect with me:
